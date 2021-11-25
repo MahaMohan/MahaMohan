@@ -20,10 +20,10 @@ Note: I do not have many repositories here because I contribute mainly to [Epica
 ## My Skills:-
 ### Languages I Use:-
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="45" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/html.svg" alt="HTML5" height="45" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/css.svg" alt="CSS3" height="45" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/python.svg" alt="Python" height="45" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/cpp.svg" alt="C++" height="45" />
 </div>
 
 ### Tools I Use:-
@@ -49,7 +49,7 @@ Note: I do not have many repositories here because I contribute mainly to [Epica
 ## Contact Me:-
 <p align="center">
 <a href="https://www.instagram.com/Mahadhevha/" target="_blank">
-  <img align="center" alt="Mahadhevha | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <img align="center" alt="Mahadhevha | Instagram" width="24px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:m.mahadhevha@gmail.com" >
   <img align="center" alt="Mahadhevha | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
