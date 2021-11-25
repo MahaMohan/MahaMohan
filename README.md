@@ -6,6 +6,9 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=MahaMohan.MahaMohan)
+[![Github](https://img.shields.io/github/followers/MahaMohan?label=Follow&style=social)](https://github.com/MahaMohan)
+
 ## About Me:-
 My name is Mahadhevha and I'm a undergraduate computer scientist from singapore. I am an introverted and a self-taught programmer contributing to the open-source community on github. I like to Code, Design, Innovate and Experiment and love to take up new challenges and learn new skills.
 - 🔭 I am currently working with Python, Juypter, C++ and Web developments.
@@ -20,10 +23,10 @@ Note: I do not have many repositories here because I contribute mainly to [Epica
 ## My Skills:-
 ### Languages I Use:-
 <div align="center">
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/html.svg" alt="HTML5" height="45" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/css.svg" alt="CSS3" height="45" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/python.svg" alt="Python" height="45" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/cpp.svg" alt="C++" height="45" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/html.svg" alt="HTML5" height="45"/>  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/css.svg" alt="CSS3" height="45"/>
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/python.svg" alt="Python" height="45"/>  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/cpp.svg" alt="C++" height="45"/>
 </div>
 
 ### Tools I Use:-
@@ -42,17 +45,20 @@ Note: I do not have many repositories here because I contribute mainly to [Epica
   
 ## Streaks:-
 <a href="https://git.io/streak-stats" target="_blank">
-  <img align="center" alt="Mahadhevha | Instagram" src="https://geosheehan-github-streak.herokuapp.com?user=MahaMohan&theme=dark" />
+  <img align="center" alt="Mahadhevha | Instagram" src="https://geosheehan-github-streak.herokuapp.com?user=MahaMohan&theme=dark"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## Contact Me:-
 <p align="center">
 <a href="https://www.instagram.com/Mahadhevha/" target="_blank">
-  <img align="center" alt="Mahadhevha | Instagram" width="24px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/instagram.svg" />
+  <img align="center" alt="Mahadhevha | Instagram" width="24px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/instagram.svg"/>
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/Epicalable_Maha" target="_blank">
+  <img align="center" alt="Mahadhevha | Instagram" width="24px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/12ee805794a25a29fa6c6299cdfdd343f245b795/icons/Twitter.svg"/>
 </a> &nbsp;&nbsp;
 <a href="mailto:m.mahadhevha@gmail.com" >
-  <img align="center" alt="Mahadhevha | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="Mahadhevha | Gmail" width="26px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/12ee805794a25a29fa6c6299cdfdd343f245b795/icons/Gmail.svg"/>
 </a> &nbsp;&nbsp;
 </p>
 </div>
