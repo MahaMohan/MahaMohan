@@ -10,10 +10,10 @@
 [![Github](https://img.shields.io/github/followers/MahaMohan?label=Follow&style=social)](https://github.com/MahaMohan)
 
 ## About Me:-
-My name is Mahadhevha and I'm a undergraduate computer scientist from singapore. I am an introverted and a self-taught programmer contributing to the open-source community on github. I like to Code, Design, Innovate and Experiment and love to take up new challenges and learn new skills.
-- 🔭 I am currently working with Python, Juypter, C++ and Web developments.
-- 🎓 Currently self-learning MySQL and Java.
-- 🌱 I’m currently working on growing my startup [Epicalable](https://github.com/Epicalable).
+My name is Mahadhevha and I'm an undergraduate computer science student from singapore. I am an introverted and a self-taught programmer contributing to the open-source community and also like to create side-projects for myself to take up new challenges and problems on github. I usually like to Code, Design, Innovate and Experiment and also really love to take up new challenges and learn new useful programming or important computing skills.
+- 🔭 I am currently programming using Python, Juypter, C++ and Web development using Html, Css.
+- 🎓 Currently trying to self-learning MySQL, Java and Javascript.
+- 🌱 I’m currently working on contributing and growing my startup [Epicalable](https://github.com/Epicalable).
 
 Note: I do not have many repositories here because I contribute mainly to [Epicalable](https://github.com/Epicalable) so check out all my work there.
 
