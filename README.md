@@ -14,39 +14,36 @@ My name is Mahadhevha and I'm an undergraduate computer science student from sin
 - 🔭 I am currently programming using Python, Juypter, C++ and Web development using Html, Css.
 - 🎓 Currently trying to self-learning MySQL, Java and Javascript.
 - 🌱 I’m currently working on contributing and growing my startup [Epicalable](https://github.com/Epicalable).
+- 📫 Contact me at :  **m.mahadhevha@gmail.com**
 
 Note: I do not have many repositories here because I contribute mainly to [Epicalable](https://github.com/Epicalable) so check out all my work there.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <div align="center">
 
-## My Skills:-
-### Languages I Use:-
+### My Skills:-
+#### Languages And Tools I Use:-
 <div align="center">
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/python.svg" alt="Python" height="45"/>  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/cpp.svg" alt="C++" height="45"/>
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/html.svg" alt="HTML5" height="45"/>  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/css.svg" alt="CSS3" height="45"/>
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/python.svg" alt="Python" height="20"/>  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/cpp.svg" alt="C++" height="20"/>
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/html.svg" alt="HTML5" height="20"/>  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/css.svg" alt="CSS3" height="20"/>
 
-</div>
-
-### Tools I Use:-
 <div align="center">
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="20"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="20"></a>
+<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="20"></a>
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
 </div>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   
 ## Contributions:-
 ![MahaMohan Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahaMohan&theme=solarized_dark)
-![MahaMohan Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahaMohan&theme=solarized_dark)
   
 ## Streaks:-
 <a href="https://git.io/streak-stats" target="_blank">
-  <img align="center" alt="Mahadhevha | Instagram" src="https://geosheehan-github-streak.herokuapp.com?user=MahaMohan&theme=dark"/>
+  <img align="center" alt="Mahadhevha | Instagram" src="https://geosheehan-github-streak.herokuapp.com?user=MahaMohan&theme=dark" height="150"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
@@ -63,3 +60,5 @@ Note: I do not have many repositories here because I contribute mainly to [Epica
 </a> &nbsp;&nbsp;
 </p>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
