@@ -10,7 +10,7 @@
 [![Github](https://img.shields.io/github/followers/MahaMohan?label=Follow&style=social)](https://github.com/MahaMohan)
 
 ## About Me:-
-My name is Mahadhevha and I'm an undergraduate computer science student from singapore. I am an introverted and a self-taught programmer contributing to the open-source community and also like to create side-projects for myself to take up new challenges and problems on github. I usually like to Code, Design, Innovate and Experiment and also really love to take up new challenges and learn new useful programming or important computing skills.
+My name is Mahadhevha and I'm an undergraduate computer science student from singapore. I am an introverted and a self-taught programmer aspiring to be a full-stack developer at the same time helping to contribute to the open-source community. I also like to create side-projects for myself to take up new challenges and problems on github. I usually like to Code, Design, Innovate and Experiment and also really love to take up new challenges and learn new useful programming or important computing skills.
 - 🔭 I am currently programming using Python, Juypter, C++ and Web development using Html, Css.
 - 🎓 Currently trying to self-learning MySQL, Java and Javascript.
 - 🌱 I’m currently working on contributing and growing my startup [Epicalable](https://github.com/Epicalable).
@@ -40,10 +40,6 @@ Note: I do not have many repositories here because I contribute mainly to [Epica
   
 ## Contributions:-
 ![MahaMohan Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahaMohan&theme=solarized_dark)
-  
-## Streaks:-
-<a href="https://git.io/streak-stats" target="_blank">
-  <img align="center" alt="Mahadhevha | Instagram" src="https://geosheehan-github-streak.herokuapp.com?user=MahaMohan&theme=dark" height="150"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
