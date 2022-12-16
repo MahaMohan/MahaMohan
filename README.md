@@ -14,6 +14,7 @@ My name is Mahadhevha and I'm an undergraduate computer science student from sin
 - 🔭 I am currently programming using Python, Juypter, C++ and Web development using Html, Css.
 - 🎓 Currently trying to self-learning MySQL, Java and Javascript.
 - 🌱 I’m currently working on contributing and growing my startup [Epicalable](https://github.com/Epicalable).
+- <a href="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif"><img  src="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif" width="25" alt="MagicCube-gif"/></a> My hobbies includes playing 🎮 Games, 📚 Learning something new ,🎧 listening to Music and 🍜 watching Anime.
 - 📫 Contact me at :  **m.mahadhevha@gmail.com**
 
 Note: I do not have many repositories here because I contribute mainly to [Epicalable](https://github.com/Epicalable) so check out all my work there.
@@ -21,25 +22,38 @@ Note: I do not have many repositories here because I contribute mainly to [Epica
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <div align="center">
 
-### My Skills:-
-#### Languages And Tools I Use:-
-<div align="center">
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/python.svg" alt="Python" height="20"/>  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/cpp.svg" alt="C++" height="20"/>
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/html.svg" alt="HTML5" height="20"/>  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/css.svg" alt="CSS3" height="20"/>
+## Languages And Tools I Use:-
+<table><tr><td valign="top" width="3%">
 
-<div align="center">
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="20"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="20"></a>
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="20"></a>
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
+## Languages:
+<div align="center">  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/python.svg" alt="Python" height="38"/>  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/cpp.svg" alt="C++" height="38"/>
+<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="38" /></a>&nbsp;&nbsp;
 </div>
+
+</td><td valign="top" width="3%">
+
+## IDEs:  
+<div align="center">
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode-icon" height="38" /></a>&nbsp;&nbsp;
+</div>
+
+</td><td valign="top" width="3%">
+
+## Tools:
+<div align="center">
+<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub-icon" height="45" /></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git-icon" height="38" /></a>&nbsp;
+
+</td></tr></table>  
+
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   
-## Contributions:-
-![MahaMohan Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahaMohan&theme=solarized_dark)
+## Contributions So Far:-
+![dark](https://awesome-github-stats.azurewebsites.net/user-stats/MahaMohan?theme=dark&cardType=octocat)  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
