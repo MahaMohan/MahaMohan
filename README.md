@@ -14,7 +14,7 @@ My name is Mahadhevha and I'm an undergraduate computer science student from sin
 - 🔭 I am currently programming using Python, Juypter, C++ and Web development using Html, Css.
 - 🎓 Currently trying to self-learning MySQL, Java and Javascript.
 - 🌱 I’m currently working on contributing and growing my startup [Epicalable](https://github.com/Epicalable).
-- <a href="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif"><img  src="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif" width="25" alt="MagicCube-gif"/></a> My hobbies includes playing 🎮 Games, 📚 Learning something new ,🎧 listening to Music and 🍜 watching Anime.
+- 🔬  My hobbies includes playing 🎮 Games, 📚 Learning something new ,🎧 listening to Music and 🍜 watching Anime.
 - 📫 Contact me at :  **m.mahadhevha@gmail.com**
 
 Note: I do not have many repositories here because I contribute mainly to [Epicalable](https://github.com/Epicalable) so check out all my work there.
@@ -23,7 +23,7 @@ Note: I do not have many repositories here because I contribute mainly to [Epica
 <div align="center">
 
 ## Languages And Tools I Use:-
-<table><tr><td valign="top" width="3%">
+<table><tr><td valign="top" width="33%">
 
 ## Languages:
 <div align="center">  
@@ -33,14 +33,14 @@ Note: I do not have many repositories here because I contribute mainly to [Epica
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="38" /></a>&nbsp;&nbsp;
 </div>
 
-</td><td valign="top" width="3%">
+</td><td valign="top" width="33%">
 
 ## IDEs:  
 <div align="center">
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode-icon" height="38" /></a>&nbsp;&nbsp;
 </div>
 
-</td><td valign="top" width="3%">
+</td><td valign="top" width="33%">
 
 ## Tools:
 <div align="center">
