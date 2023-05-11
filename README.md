@@ -6,13 +6,12 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=MahaMohan.MahaMohan)
 [![Github](https://img.shields.io/github/followers/MahaMohan?label=Follow&style=social)](https://github.com/MahaMohan)
 
 ## About Me:-
 My name is Mahadhevha and I'm an undergraduate computer science student from singapore. I am an introverted and a self-taught programmer aspiring to be a full-stack developer at the same time helping to contribute to the open-source community. I also like to create side-projects for myself to take up new challenges and problems on github. I usually like to Code, Design, Innovate and Experiment and also really love to take up new challenges and learn new useful programming or important computing skills.
-- 🔭 I am currently programming using Python, Juypter, C++ and Web development using Html, Css.
-- 🎓 Currently trying to self-learning MySQL, Java and Javascript.
+- 🔭 I am currently programming using Python, C++ and Web development using Html, Css, JavaScript.
+- 🎓 Currently trying to self-learning MySQL and Java.
 - 🌱 I’m currently working on contributing and growing my startup [Epicalable](https://github.com/Epicalable).
 - 🔬  My hobbies includes playing 🎮 Games, 📚 Learning something new ,🎧 listening to Music and 🍜 watching Anime.
 - 📫 Contact me at :  **m.mahadhevha@gmail.com**
@@ -31,6 +30,7 @@ Note: I do not have many repositories here because I contribute mainly to [Epica
 <img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/cpp.svg" alt="C++" height="38"/>
 <a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="38" /></a>&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js-icon" height="38" /></a>&nbsp;&nbsp;
 </div>
 
 </td><td valign="top" width="33%">
