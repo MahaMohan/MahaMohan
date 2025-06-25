@@ -13,11 +13,11 @@
  I also like to create side-projects for myself and solve problems on github. I usually like to Code, Design, Innovate and Experiment and also really love to take up new challenges and learn new useful programming or important computing skills.
 - 🔭 I am currently programming using Python, C++ and doing Web development using Html, Css, JavaScript.
 - 🎓 Currently trying to self-learn MySQL and Java.
-- 🌱 I’m currently working on contributing and growing my startup [Epicalable](https://github.com/Temavrix).
+- 🌱 I’m currently working on contributing and growing my startup [Temavrix](https://github.com/Temavrix).
 - 📖  My hobbies are listening to Music and watching Anime.
 - 📫 Contact me at :  **m.mahadhevha@gmail.com**
 
-Note: I do not have many repositories here because I contribute mainly to [Epicalable](https://github.com/Epicalable) so check out all my work there:  
+Note: I do not have many repositories here because I contribute mainly to [Temavrix](https://github.com/Temavrix) so check out all my work there:  
 
 #### My Notable Repositories:
 ##### Please star these Repos it would mean a lot to me :-)
