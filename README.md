@@ -13,7 +13,7 @@
  I also like to create side-projects for myself and solve problems on github. I usually like to Code, Design, Innovate and Experiment and also really love to take up new challenges and learn new useful programming or important computing skills.
 - 🔭 I am currently programming using Python, C++ and doing Web development using Html, Css, JavaScript.
 - 🎓 Currently trying to self-learn MySQL and Java.
-- 🌱 I’m currently working on contributing and growing my startup [Epicalable](https://github.com/Epicalable).
+- 🌱 I’m currently working on contributing and growing my startup [Epicalable](https://github.com/Temavrix).
 - 📖  My hobbies are listening to Music and watching Anime.
 - 📫 Contact me at :  **m.mahadhevha@gmail.com**
 
@@ -23,8 +23,8 @@ Note: I do not have many repositories here because I contribute mainly to [Epica
 ##### Please star these Repos it would mean a lot to me :-)
 | App Name | Github Repository Link                           | Description                                                                                                                             |
 |----------|--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| JARVIS   | [Jarvis](https://github.com/Epicalable/JARVIS)   | A simple Chatbot with a GUI capable of chatting and retrieving information and daily news from the internet for it's user using python. |
-| ComDash  | [ComDash](https://github.com/Epicalable/ComDash) | An All-in-one Web-based Dashboard for News, Weathers and More using Html, CSS and JavaScript.                                           |
+| JARVIS   | [Jarvis](https://github.com/Temavrix/JARVIS)   | Jarvis is a simple Pytorch AI with a GUI capable of chatting and retrieving information or daily news from the internet for it's user using python. |
+| NexaView  | [NexaView](https://github.com/Temavrix/NexaView) | NexaView is an All-in-one Stunning Web-based Dashboard for News, Weathers and More for Users using ReactJS, TailwindCSS and Firebase Database.                                           |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
@@ -59,9 +59,6 @@ Note: I do not have many repositories here because I contribute mainly to [Epica
 <p align="center">
 <a href="https://www.instagram.com/Mahadhevha/" target="_blank">
   <img align="center" width="24px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1e006cdd82bd86b13693fb860dbba99b344d793c/icons/instagram.svg"/>
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/Epicalable_Maha" target="_blank">
-  <img align="center" width="24px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/12ee805794a25a29fa6c6299cdfdd343f245b795/icons/Twitter.svg"/>
 </a> &nbsp;&nbsp;
 <a href="mailto:m.mahadhevha@gmail.com" >
   <img align="center" width="26px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/12ee805794a25a29fa6c6299cdfdd343f245b795/icons/Gmail.svg"/>
