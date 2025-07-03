@@ -23,8 +23,9 @@ Note: I do not have many repositories here because I contribute mainly to [Temav
 ##### Please star these Repos it would mean a lot to me :-)
 | App Name | Github Repository Link                           | Description                                                                                                                             |
 |----------|--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| JARVIS   | [Jarvis](https://github.com/Epicalable/JARVIS)   | A simple Chatbot with a GUI capable of chatting and retrieving information and daily news from the internet for it's user using python. |
-| ComDash  | [ComDash](https://github.com/Epicalable/ComDash) | An All-in-one Web-based Dashboard for News, Weathers and More using Html, CSS and JavaScript.                                           |
+| JARVIS   | [Jarvis](https://github.com/Temavrix/JARVIS)   | Jarvis is a simple Pytorch AI with a GUI capable of chatting and retrieving information or daily news from the internet for it's user using python. |
+| NexaView  | [NexaView](https://github.com/Temavrix/NexaView) | NexaView is an All-in-one Stunning Web-based Dashboard for News, Weathers and More for Users using ReactJS, TailwindCSS and Firebase Database. |
+| HabitAura  | [HabitAura](https://github.com/Temavrix/HabitAura) | HabitAura is a personal mobile app that helps users track commitments, track exercises and more. Built using Flutter and Firebase as the database. |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
